@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 - 🎓 Final year Materials and technologies for energy and aviation
-<br>
+
+
 To see my projects, please visit my virtual resume, where I describe my current projects on my blog
 
 ## 💻 Some of my code
