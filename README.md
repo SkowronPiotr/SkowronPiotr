@@ -25,7 +25,7 @@ To see my projects, please visit my virtual resume, where I describe my current 
 |**Project**|**Description**|
 |:----------|:----|
 | 🎓 [Master thesis](https://github.com/SkowronPiotr/praca-magisterska) | My most advanced project and a good farewell to studies |
-| :heavy_dollar_sign: [ABC shopping](https://github.com/SkowronPiotr/ecom) | Ecommerce site built with Django and JavaScript. |
+| :heavy_dollar_sign:  [ABC shopping](https://github.com/SkowronPiotr/ecom) | Ecommerce site built with Django and JavaScript. |
 | :dart: [Marketplace](https://github.com/SkowronPiotr/sklep) | Local market place with chatting |
 | :heavy_check_mark: [Django Rest Framework](https://github.com/SkowronPiotr/Drf/tree/main/mysite) | Simple Rest API |
 
