@@ -24,11 +24,11 @@ To see my projects, please visit my virtual resume, where I describe my current 
 ## 💻 Some of my code
 |**Project**|**Description**|
 |:----------|:----|
+| 📝 [Virtual Resume](https://github.com/SkowronPiotr/virtual-resume/tree/main/virtual_resume) | A resume site with all of my important projects which are fully described. |
 | 🎓 [Master thesis](https://github.com/SkowronPiotr/praca-magisterska) | My most advanced project and a good farewell to studies |
 | :heavy_dollar_sign:  [ABC shopping](https://github.com/SkowronPiotr/ecom) | Ecommerce site built with Django and JavaScript. |
 | :dart: [Marketplace](https://github.com/SkowronPiotr/sklep) | Local market place with chatting |
 | :heavy_check_mark: [Django Rest Framework](https://github.com/SkowronPiotr/Drf/tree/main/mysite) | Simple Rest API |
 
 
-<!--| 📝 [Virtual Resume](https://github.com...) | A resume site with all of my important projects which are fully described. |-->
 
