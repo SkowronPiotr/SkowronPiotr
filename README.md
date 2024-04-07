@@ -29,6 +29,6 @@ To see my projects, please visit my virtual resume, where I describe my current 
 | :heavy_dollar_sign:  [ABC shopping](https://github.com/SkowronPiotr/ecom) | Ecommerce site built with Django and JavaScript. |
 | :dart: [Marketplace](https://github.com/SkowronPiotr/sklep) | Local market place with chatting |
 | :heavy_check_mark: [Django Rest Framework](https://github.com/SkowronPiotr/Drf/tree/main/mysite) | Simple Rest API |
-
+| ⚡ [JavaScript](https://github.com/SkowronPiotr/JavaScript) | Amazon clone  |
 
 
